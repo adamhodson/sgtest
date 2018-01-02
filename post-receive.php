@@ -1,7 +1,4 @@
 <?php
-
-
-
 	/**
 	 * GIT DEPLOYMENT SCRIPT
 	 *
@@ -10,7 +7,7 @@
 	 * How To Use:
 	 * https://medium.com/riow/deploy-to-production-server-with-git-using-php-ab69b13f78ad
 	 */
-	The commands
+	//The commands
 	$commands = array(
 		'echo $PWD',
 		'whoami',
@@ -46,7 +43,7 @@
 |      github.com/riodw 2017 |
 |____________________________|
 
-<?php //echo $output; ?>
+<?php echo $output; ?>
 </pre>
 </body>
 </html>
